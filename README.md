@@ -1,4 +1,4 @@
-# Classificador de héroi
+# Classificador de herói
 
 Desafio do Bootcamp Santander 2025
 
